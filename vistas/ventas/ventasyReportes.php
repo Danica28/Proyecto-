@@ -45,7 +45,7 @@
 					</td>
 					<td>
 						<?php 
-							echo "$".$obj->obtenerTotal($ver[0]);
+							echo "".$obj->obtenerTotal($ver[0]);
 						 ?>
 					</td>
 					<td>
